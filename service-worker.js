@@ -1,4 +1,4 @@
-var cacheName = "appStore-v1";
+var cacheName = "appStore-v1"; //initializes the name of the cache to be used
 
 //intercepts requests to save all fetched files in the cache if new or return from cache if exisiting
 self.addEventListener("fetch", (e) => {
