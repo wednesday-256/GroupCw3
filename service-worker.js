@@ -11,7 +11,7 @@ self.addEventListener("fetch", (e) => {
         fetch(e.request).then((response) => {
           //adds the new file to cache
           return caches.open(cacheName).then((cache) => {
-            cache.put(e.request, response.clone());
+            cache.put(e.request, response.clone()); //saves the requested file to the cache
             return response;
           });
         })
