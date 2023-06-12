@@ -1,7 +1,7 @@
 {
     "name": "After School Activities",
     "short_name": "After School Activities",
-    "descriptions": "web app that allows students and their parents to look for after school classes and activities.",
+    "description": "web app that allows students and their parents to look for after school classes and activities.",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
