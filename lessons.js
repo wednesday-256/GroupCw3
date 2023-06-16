@@ -7,6 +7,7 @@ const lessons = [
     availableSpace: 5,
     image: "images/martial_arts.png",
   },
+
   {
     id: 2,
     subject: "Coding Club",
@@ -15,6 +16,7 @@ const lessons = [
     availableSpace: 5,
     image: "images/coding.png",
   },
+
   {
     id: 3,
     subject: "Dance Class",
@@ -23,6 +25,7 @@ const lessons = [
     availableSpace: 5,
     image: "images/dance.png",
   },
+
   {
     id: 4,
     subject: "Debate Team",
@@ -31,6 +34,7 @@ const lessons = [
     availableSpace: 5,
     image: "images/debate.png",
   },
+
   {
     id: 5,
     subject: "Yoga Class",
@@ -39,6 +43,7 @@ const lessons = [
     availableSpace: 5,
     image: "images/yoga.png",
   },
+
   {
     id: 6,
     subject: "Science Club",
@@ -47,6 +52,7 @@ const lessons = [
     availableSpace: 5,
     image: "images/science.png",
   },
+
   {
     id: 7,
     subject: "Photography Club",
@@ -55,6 +61,7 @@ const lessons = [
     availableSpace: 5,
     image: "images/photography.png",
   },
+
   {
     id: 8,
     subject: "Art Class",
@@ -63,6 +70,7 @@ const lessons = [
     availableSpace: 5,
     image: "images/art.png",
   },
+
   {
     id: 9,
     subject: "Academic Tutoring",
@@ -71,6 +79,7 @@ const lessons = [
     availableSpace: 5,
     image: "images/academic_tutoring.png",
   },
+
   {
     id: 10,
     subject: "Creative Writing",
@@ -79,4 +88,5 @@ const lessons = [
     availableSpace: 5,
     image: "images/creative_writing.png",
   },
+  
 ];
